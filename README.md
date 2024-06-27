@@ -35,21 +35,39 @@ Competitors: Dominated by Swiggy and Zomato with a 67% market share.
 Major Regions: Bangalore, Delhi-NCR, Mumbai, Hyderabad, Pune.
 Delivery Types: Restaurant-to-consumer and platform-to-consumer.
 **Target Audience**
+
 Health-conscious individuals and fitness enthusiasts.
+
 Working professionals with hectic schedules.
+
 People aged 18 to 60.
+
 Marketing Strategy
+
 Social Media Marketing: Engaged potential customers through platforms like Instagram, Facebook, and Twitter.
+
 Email Marketing: Reached out to customers with personalized offers and updates.
+
 Collaborations: Partnered with food vloggers like Sinful Foodie to increase brand visibility.
+
 Implementation Plan
+
 Phased Rollout: Gradual implementation of technical infrastructure and standards.
+
 Government Support: Utilized backing from various government ministries to ensure compliance and support.
+
 Feedback Loop: Continuously gathered feedback from customers, restaurants, and delivery partners to refine and improve services.
 Expected Outcomes
+
 Increased Market Share: Aim to capture a significant share of the food delivery market by providing a superior alternative to Swiggy and Zomato.
+
+
 Customer Satisfaction: High levels of customer satisfaction due to quality assurance, affordable pricing, and innovative app features.
+
+
 Restaurant and Delivery Partner Benefits: Better terms and conditions for restaurants and improved working conditions for delivery partners.
+
+
 By leveraging the ONDC platform, FoodZey aims to disrupt the Indian food delivery market, offering a unique and competitive edge through innovation, quality service, and strategic market positioning.
 
 
